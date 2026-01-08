@@ -1,5 +1,5 @@
 ## Termux-App
-[Termux-app](https://github.com/BOXLEGENDARY/termux-app)
+[Termux-App](https://github.com/BOXLEGENDARY/termux-app)
 
 ## Version
 
